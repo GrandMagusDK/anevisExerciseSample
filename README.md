@@ -1,1 +1,1 @@
-
+Running this programm will take the Files in /dataFiles, persist their data in a PostgresQL DB, retrieve it and generate charts in the form of images in the /generatedImages folder. Every execution deletes the contents of /generatedImages and clears the DB Tables.
